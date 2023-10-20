@@ -1,5 +1,3 @@
-![68747470733a2f2f692e696d6775722e636f6d2f625036645632492e706e67](https://github.com/divya030/Webscraping_Goodreads/assets/96876070/cbd0b119-d265-4ede-919e-1bcefc51148e)# Webscraping_Goodreads
-
 Goodreads is an American social cataloging website and a subsidiary of Amazon that allows individuals to search its database of books, annotations, quotes, and reviews. Users can sign up and register books to generate library catalogs and reading lists. They can also create their own groups of book suggestions, surveys, polls, blogs, and discussions.
 
 ### Problem statement
